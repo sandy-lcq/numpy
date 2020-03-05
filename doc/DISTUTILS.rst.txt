@@ -3,6 +3,8 @@
 NumPy Distutils - Users Guide
 =============================
 
+C4
+
 .. contents::
 
 SciPy structure
