@@ -33,6 +33,7 @@ Tests can then be run after installation with:
 
     python -c 'import numpy; numpy.test()'
 
+tet
 
 Call for Contributions
 ----------------------
